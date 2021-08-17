@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+}
+</style>
+</head>
+<body>
+
+<h2>Education</h2>
+
+<table style="width:100%">
+  <tr>
+    <th> BOARD</th>
+    <th>passing year</th> 
+    <th>percantage</th>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>2013</td>
+    <td>88</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>2015</td>
+    <td>93</td>
+  </tr>
+  <tr>
+    <td>BE</td>
+    <td>2020</td>
+    <td>71</td>
+  </tr>
+</table>
+
+</body>
+</html>
+

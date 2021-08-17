@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Contact Me</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+<style>
+.fa {
+  padding: 20px;
+text-align: center;
+  margin: 5px 2px;
+  font-size: 30px;
+  width: 50px;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #FF0000;
+  color: green;
+}
+.fa:hover {
+    opacity: 0.9;
+}
+</style>
+<ul>
+<li> 
+<a href="https://www.facebook.com/profile.php?id=100013226221317" class="fa fa-facebook"> </a> 
+
+</li>
+<li>
+<a href="https://www.instagram.com/sbm_patidar90/" class="fa fa-instagram"> </a>
+</li>
+</ul>
+</body>
+</html>
